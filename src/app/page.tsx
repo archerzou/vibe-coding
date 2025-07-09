@@ -1,7 +1,9 @@
-const Page = () => {
+
+const Page = async () => {
+
     return (
-        <div className="font-bold text-rose-500">
-            Hello world!
+        <div>
+            Hello
         </div>
     );
 };
